@@ -25,5 +25,4 @@ int main()
   cout << endl;
   cout << "After being multiplied by (2,7) ";
   myComplex.printComplex();
-  cout << "test" << endl;
 }
